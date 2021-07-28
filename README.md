@@ -10,6 +10,6 @@
 
 <h4>Wanna know more 📚</h4>
 
-<i>Check out my medium blog 👇🏻</i>
+<i>Check out my medium blog 👉🏻</i>
  <a href="https://jeevasaravanan.medium.com/face-api-js-a-way-to-build-face-recognition-system-in-browser-c1f4ac922657">![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)</a> 
 
